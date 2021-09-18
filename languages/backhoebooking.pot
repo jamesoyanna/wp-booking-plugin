@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-29 12:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class.admin.calendar.php:22
+msgid "Configuration updated!!"
+msgstr ""
+
+#: admin/class.admin.calendar.php:28
+msgid "Backhoe Booking"
+msgstr ""
+
+#: admin/class.admin.calendar.php:33
+msgid "Date Format"
+msgstr ""
+
+#: admin/class.admin.calendar.php:43 admin/class.admin.calendar.php:44
+msgid "Save"
+msgstr ""
+
+#: admin/class.meta-box.php:25
+msgid "Set Price Per"
+msgstr ""
+
+#: admin/class.meta-box.php:26
+msgid "Hourly"
+msgstr ""
+
+#: admin/class.meta-box.php:27
+msgid "Daily"
+msgstr ""
+
+#: admin/class.meta-box.php:28
+msgid "Weekly"
+msgstr ""
+
+#: admin/class.meta-box.php:38 admin/class.meta-box.php:39
+#: public/single-product-pickuptime.php:40
+msgid "Quantity"
+msgstr ""
+
+#: includes/base/Activate.php:30
+#, php-format
+msgid ""
+"The Minimum PHP Version Requirement for <b>Backhoe Booking</b> is %s. You "
+"are Running PHP %s"
+msgstr ""
+
+#: includes/base/Activate.php:69
+#, php-format
+msgid ""
+"Backhoe Booking requires WooCommerce to be installed and active. You can "
+"activate %s here."
+msgstr ""
+
+#: includes/base/Activate.php:87
+msgid "Thank you for using Backhoe Booking plugin!"
+msgstr ""
+
+#: includes/base/Activate.php:87
+msgid "You are awesome"
+msgstr ""
+
+#: includes/base/Activate.php:88
+msgid "Backhoe Rental Setting"
+msgstr ""
+
+#: includes/class/calc.rental.duration.class.php:20
+msgid "Days"
+msgstr ""
+
+#: includes/class/calc.rental.duration.class.php:25
+msgid "Weeks"
+msgstr ""
+
+#: public/cat.php:65
+msgid "Pickup date: "
+msgstr ""
+
+#: public/cat.php:70
+msgid "Return date: "
+msgstr ""
+
+#: public/cat.php:75
+msgid "Duration: "
+msgstr ""
+
+#: public/cat.php:89
+msgid "From"
+msgstr ""
+
+#: public/cat.php:90
+msgid "To"
+msgstr ""
+
+#: public/cat.php:98 public/single-product-pickuptime.php:43
+msgid "Book Now"
+msgstr ""
+
+#: public/single-product-pickuptime.php:14
+#: public/single-product-pickuptime.php:15
+msgid "Pickup date"
+msgstr ""
+
+#: public/single-product-pickuptime.php:18
+#: public/single-product-pickuptime.php:19
+msgid "Return date"
+msgstr ""
+
+#: public/single-product-pickuptime.php:57
+msgid " Hour"
+msgstr ""
+
+#: public/single-product-pickuptime.php:60
+msgid " Day"
+msgstr ""
+
+#: public/single-product-pickuptime.php:63
+msgid " Week"
+msgstr ""
+
+#: public/single-product-pickuptime.php:92
+msgid ""
+"This date is already reserved, please choose another date or contact us."
+msgstr ""

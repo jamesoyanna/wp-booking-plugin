@@ -1,0 +1,19 @@
+== Changelog ==
+
+2021-06-16 - version 1.1.1
+* Added auction compatibility 
+* Added Rent by day by default 
+* Added set today and tomorrow and renting date by default 
+* Added support side cart
+* Fixed Buton text chnage from "Book Now" to "Rent Now"
+* Fixes
+
+2021-03-30 - version 1.1.0
+* Added Pricing methods, Price per (hour, day, week) and Fixed price.
+* Added code reorganized.
+* Added translation ready
+* Fixed Don't load assets from CDN
+* Fixed Data Validation
+
+2020-06-10 - version 1.0.0
+* Initial release
